@@ -21,9 +21,9 @@ Richard L. Burden, J. Douglas Faires e Annette M. Burden. Análise Numérica. Tr
 Jaan Kiusalaas. Numerical Methods in Engineering with Python 3. Cambridge: University Press, 2013.
 
 
-**Contribua:**
+**Contribua:**  ☕
 
-Se gostou do conteúdo e tem sido útil para você, você pode contribuir com o projeto me pagando um café expresso fazendo um pix usando o QR code abaixo ;) 
+Se gostou do conteúdo e tem sido útil para você, pode contribuir com o projeto pagando um café para nós, fazendo um pix usando o QR code abaixo ;) 
 
 <img title="p i x" src="da28a188-c7e9-4900-9312-0a7cf54d5d8c.jpeg" width="180">
 
